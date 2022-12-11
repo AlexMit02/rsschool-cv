@@ -8,8 +8,10 @@
 ## **About Me**
 I have been working in the Bank for many years. Now I want to understand what it is. Twenty-five years ago, I was learning different programming languages. I believe that I can get new experience
 
-
 ## **Projects** 
 I have no one projects
+
+## **Education**
+Ural State Economic University, 2002  
 
 
