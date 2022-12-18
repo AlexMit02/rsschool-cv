@@ -1,12 +1,19 @@
 .container
 {
-    position: relative;
-        display: block;
-        min-width: 960px;
-        min-height: 700px;
+    text-align: center;
+    
+        margin: 0px auto;
+        width: 500px;
+      
+
+        
 
 }
 
+
+body{
+    background-color: #E1E4E5;
+   } 
 
 .foto {
 
