@@ -1,0 +1,54 @@
+.container
+{
+    text-align: center;
+    
+        margin: 0px auto;
+        width: 500px;
+      
+
+        
+
+}
+
+
+body{
+    background-color: #E1E4E5;
+   } 
+
+.foto {
+
+border:bold; color:blue;
+
+}
+
+p {
+    color: #333366;
+    background-color:#ECEBEA;
+    font-style: italic;
+
+}
+
+.test {
+    color: green;
+}
+
+h1 { text-align: center;}
+
+.list
+{
+    font-style: italic;
+    font-weight: 800;
+}
+
+.logo
+{
+    float: right; 
+    margin: 0 0 5px 5px; 
+
+}
+.footer
+{
+    background-color:#8DBFC5;
+    font-size:10px;
+
+}
